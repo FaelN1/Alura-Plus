@@ -1,0 +1,10 @@
+window.sr = ScrollReveal({ reset: true});
+sr.reveal('.v2', { duration: 3000 });
+window.sr = ScrollReveal({ reset: true});
+sr.reveal('.v3', { duration: 3000 });
+window.sr = ScrollReveal({ reset: true});
+sr.reveal('.v4', { duration: 3000 });
+window.sr = ScrollReveal({ reset: true});
+sr.reveal('.v5', { duration: 3000 });
+window.sr = ScrollReveal({ reset: true});
+sr.reveal('.v5-1', { duration: 3000 });
